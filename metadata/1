@@ -1,0 +1,18 @@
+{
+   "name":"#1",
+   "image":"https://bitbucket.org/nblsnft/nft-test/raw/HEAD/images/1.png",
+   "attributes":[
+      {
+         "trait_type":"Background",
+         "value":"Grey"
+      },
+      {
+         "trait_type":"Body",
+         "value":"Blue"
+      },
+      {
+         "trait_type":"Eyes",
+         "value":"Regular"
+      }
+   ]
+}
